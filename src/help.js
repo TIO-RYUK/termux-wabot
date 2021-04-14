@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `> *Sticker Commands* <
-command : *${prefix}sticker* or *${prefix}stiker*
-desc : convert image/gif/video to sticker
+command : *${.}figurinha* or *${.}fig*
+desc : converte imagem/gif/video para figurinha
 usage : reply image/gif/video, or send image/gif/video with caption\n
 command : *${prefix}sticker nobg* or *${prefix}stiker nobg*
 desc : convert image to sticker while removing the background
